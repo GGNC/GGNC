@@ -21,4 +21,4 @@
 
 <h3 align="left">Examples of my projects:</h3>
 <div style="float:left>
-  <a href="https://play.google.com/store/apps/details?id=com.GokhanGenc.Box" target="_blank"> <img src ="./Gifs/Box.gif"width="175" title="Box!"> </a>
+  <a href="https://play.google.com/store/apps/details?id=com.GokhanGenc.Box" target="_blank" rel="noreferrer"> <img src ="./Gifs/Box.gif"width="175" title="Box!"> </a>
