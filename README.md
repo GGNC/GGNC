@@ -26,4 +26,7 @@
   <img src="/Gifs/Chicken-Charmer.gif" align="center" width="205">
   <img src="/Gifs/Road-Roller.gif" align="center" width="205">
   <img src="/Gifs/Tower-Defence.gif" align="center" width="205">
+  <img src="/Gifs/Killer-Runner.gif" align="center" width="205">
+  <img src="/Gifs/Date-Finder.gif" align="center" width="205">
+  <img src="/Gifs/Black-Hole.gif" align="center" width="205">
 <p>
