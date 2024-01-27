@@ -2,7 +2,7 @@
 <h3 align="center">Game Developer | Product Manager</h3>
 <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" align="right" width="450">
 
-- 🔭 I’m currently working on **Hyper-Casual Games**
+- 🔭 I’m currently working on **Games**
 
 - 🌱 I’m currently learning **Unity Features**
 
